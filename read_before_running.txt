@@ -1,0 +1,6 @@
+2 modules used in the program may need to be installed before running the program. They need to be pip installed (copy the lines below into a terminal one by one)
+
+pip install argon2-cffi
+pip install google-genai
+
+The program should then run with no issues (Running the main.py file - running any other file will not result in any output).
